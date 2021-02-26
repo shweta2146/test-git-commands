@@ -1,0 +1,4 @@
+#Wed Feb 24 16:43:28 IST 2021
+base.0=/Users/shweta/Desktop/game proj/NReal Practise Project/Temp/gradleOut/launcher/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

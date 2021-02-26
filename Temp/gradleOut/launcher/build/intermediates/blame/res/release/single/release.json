@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/shweta/Desktop/game proj/NReal Practise Project/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable_touchpanel_normal.png.flat",
+        "source": "/Users/shweta/.gradle/caches/transforms-2/files-2.1/beda9273726de9141a0fff024891f963/res/drawable/touchpanel_normal.png"
+    },
+    {
+        "merged": "/Users/shweta/Desktop/game proj/NReal Practise Project/Temp/gradleOut/launcher/build/intermediates/res/merged/release/mipmap-mdpi_app_icon.png.flat",
+        "source": "/Users/shweta/Desktop/game proj/NReal Practise Project/Temp/gradleOut/launcher/src/main/res/mipmap-mdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/shweta/Desktop/game proj/NReal Practise Project/Temp/gradleOut/launcher/build/intermediates/res/merged/release/layout_virtualcontroller_fragment.xml.flat",
+        "source": "/Users/shweta/.gradle/caches/transforms-2/files-2.1/beda9273726de9141a0fff024891f963/res/layout/virtualcontroller_fragment.xml"
+    },
+    {
+        "merged": "/Users/shweta/Desktop/game proj/NReal Practise Project/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable_app_normal.png.flat",
+        "source": "/Users/shweta/.gradle/caches/transforms-2/files-2.1/beda9273726de9141a0fff024891f963/res/drawable/app_normal.png"
+    },
+    {
+        "merged": "/Users/shweta/Desktop/game proj/NReal Practise Project/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable_controllerlogo.png.flat",
+        "source": "/Users/shweta/.gradle/caches/transforms-2/files-2.1/beda9273726de9141a0fff024891f963/res/drawable/controllerlogo.png"
+    },
+    {
+        "merged": "/Users/shweta/Desktop/game proj/NReal Practise Project/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable_homebutton_selector.xml.flat",
+        "source": "/Users/shweta/.gradle/caches/transforms-2/files-2.1/beda9273726de9141a0fff024891f963/res/drawable/homebutton_selector.xml"
+    },
+    {
+        "merged": "/Users/shweta/Desktop/game proj/NReal Practise Project/Temp/gradleOut/launcher/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "/Users/shweta/Desktop/game proj/NReal Practise Project/Temp/gradleOut/launcher/src/main/res/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/shweta/Desktop/game proj/NReal Practise Project/Temp/gradleOut/launcher/build/intermediates/res/merged/release/mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "/Users/shweta/Desktop/game proj/NReal Practise Project/Temp/gradleOut/launcher/src/main/res/mipmap-anydpi-v26/app_icon.xml"
+    },
+    {
+        "merged": "/Users/shweta/Desktop/game proj/NReal Practise Project/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable_home_hover.png.flat",
+        "source": "/Users/shweta/.gradle/caches/transforms-2/files-2.1/beda9273726de9141a0fff024891f963/res/drawable/home_hover.png"
+    },
+    {
+        "merged": "/Users/shweta/Desktop/game proj/NReal Practise Project/Temp/gradleOut/launcher/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/shweta/Desktop/game proj/NReal Practise Project/Temp/gradleOut/launcher/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/shweta/Desktop/game proj/NReal Practise Project/Temp/gradleOut/launcher/build/intermediates/res/merged/release/mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "/Users/shweta/Desktop/game proj/NReal Practise Project/Temp/gradleOut/launcher/src/main/res/mipmap-anydpi-v26/app_icon_round.xml"
+    },
+    {
+        "merged": "/Users/shweta/Desktop/game proj/NReal Practise Project/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable_app_hover.png.flat",
+        "source": "/Users/shweta/.gradle/caches/transforms-2/files-2.1/beda9273726de9141a0fff024891f963/res/drawable/app_hover.png"
+    },
+    {
+        "merged": "/Users/shweta/Desktop/game proj/NReal Practise Project/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable_home_normal.png.flat",
+        "source": "/Users/shweta/.gradle/caches/transforms-2/files-2.1/beda9273726de9141a0fff024891f963/res/drawable/home_normal.png"
+    },
+    {
+        "merged": "/Users/shweta/Desktop/game proj/NReal Practise Project/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable_touchbutton_selector.xml.flat",
+        "source": "/Users/shweta/.gradle/caches/transforms-2/files-2.1/beda9273726de9141a0fff024891f963/res/drawable/touchbutton_selector.xml"
+    },
+    {
+        "merged": "/Users/shweta/Desktop/game proj/NReal Practise Project/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable_appbutton_selector.xml.flat",
+        "source": "/Users/shweta/.gradle/caches/transforms-2/files-2.1/beda9273726de9141a0fff024891f963/res/drawable/appbutton_selector.xml"
+    },
+    {
+        "merged": "/Users/shweta/Desktop/game proj/NReal Practise Project/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable_touchpanel_hover.png.flat",
+        "source": "/Users/shweta/.gradle/caches/transforms-2/files-2.1/beda9273726de9141a0fff024891f963/res/drawable/touchpanel_hover.png"
+    }
+]
